@@ -3,12 +3,6 @@
 /.pnp
 .pnp.js
 
-# Directorios de distribución
-/dist
-/public
-/src/dist
-/src/public
-
 # Archivos de configuración
 .env
 .env.local
