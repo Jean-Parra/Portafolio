@@ -1,0 +1,42 @@
+# Dependencias
+/node_modules
+/.pnp
+.pnp.js
+
+# Directorios de distribución
+/dist
+/public
+/src/dist
+/src/public
+
+# Archivos de configuración
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de caché
+.npm
+.eslintcache
+.prettiercache
+
+# Archivos de registro
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de editor
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
